@@ -6,7 +6,6 @@ body {
   margin-right: 30%;
   margin-left: 5%;
   margin-top: 5%;
-  margin-bottom: 5%;
   font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -25,7 +24,15 @@ h1 {
   margin: 20px;
   color: white;
 }
-    
+
+h2 { 
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-stretch: expanded;
+  font-weight: bold;
+  margin: 20px;
+  color: rgb(149 45 31);
+}
+
 nav ul{
   list-style-type: none;
   margin: 0;
@@ -50,27 +57,64 @@ nav li a {
 
 nav li a:hover {
   background-color: #ddd;
+  color:rgb(27 31 32);
 }
 
-nav .active {
-  background-color: darkkhaki;
+nav li a:active {
+  background-color: rgb(27 31 32);
+  color: #ddd;
 }
 
 #content{
   background-color: rgb(247, 186, 111);
+  background-size: margin 0%; 
+  padding: 5%;
+}
+
+a {
+  text-decoration:none;
+  color:sandybrown;
+}
+
+a:hover{
+  text-decoration:none;
+  font-weight:1000;
+  color:darkgoldenrod; 
 }
 
 #exhibit{
-  margin: auto;
   display: grid;
-  grid-gap: 10px;
-  font-size: 10px;
-  grid-template-columns: repeat(4, 275px); 
+  grid-gap: auto;
+  grid-template-columns: repeat(1, auto); 
+  grid-area: content;
 }
 
-#grid_cell {
-  align-self: baseline;
+#grid_cell a:link{
+  font-size: 15px;
+  font-family: inherit;
+  font-style: inherit;
   text-align: left;
+  margin: 5%;
+  color:rgb(70 61 46);
+}
+
+#grid_cell a:visited{
+  font-size: 15px;
+  font-family: inherit;
+  font-style: inherit;
+  text-align: left;
+  margin: 5%;
+  color:rgb(70 61 46);
+}
+
+#grid_cell a:hover {
+  font-weight: bold;
+  color: rgb(254 254 252 );
+}
+
+#grid_cell a:active {
+  font-weight: bold;
+  color: rgb(149 45 31);
 }
 
 #footer {
