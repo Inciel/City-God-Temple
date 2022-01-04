@@ -1,5 +1,5 @@
 body {
-  background-image:url('https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01240b556885de0000009fcb2329db.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643274614&t=15d83ee1a057746e6c9d6df8eb458e31');
+  background-image:url(images/background3.jpeg);
   background-repeat:repeat;
   background-position: center top;
   background-size: width 1002px;
@@ -23,17 +23,18 @@ h1 {
   font-stretch: expanded;
   font-weight: bold;
   font-size:80px;
-  margin-bottom:-10;
+  margin-bottom:-8;
   color: rgb(254 254 252);
+  text-shadow: 10px 1px 10px black;
 }
 
 h2 { 
   font-family: fantasy;
   font-variant: small-caps;
   font-stretch: expanded;
-  font-weight:bolder;
-  font-size:20px;
-  margin:-5;
+  font-weight: bolder;
+  font-size: 22px;
+  padding-top:6%;
   color: rgb(149 45 31);
 }
 
@@ -44,8 +45,13 @@ p {
   font-size:15px;
 }
 
-#indextitle {
-  font-size:18px;
+#intro {
+  text-align: justify;
+  padding-left:10%;
+  padding-right:10%;
+  padding-bottom:6%;
+  padding-top:1%;
+  font-family: fantasy;
 }
 
 nav ul{
@@ -83,9 +89,36 @@ nav li a:active {
 }
 
 #content{
-  background-color: rgb(247, 186, 111);
-  background-size: margin 0%; 
-  padding: 5%;
+  background-color:rgba(246,185,117,0.9);
+  padding:0%;
+}
+
+#exhibit {
+  display: grid;
+  grid-template-columns: repeat(6,120px);
+  grid-template-rows: auto;
+  grid-gap: 10px; 
+  justify-content: center;
+  padding:10%;
+  background-image: url('images/background2.jpeg');
+  background-position: center;
+  background-size: contain;
+}
+
+#grid_cell {
+  padding:0;
+  margin:0;
+  border:2px groove rgb(203 133 70);
+}
+
+#grid_cell a:hover{
+  padding:0;
+  margin:0;
+  border:2px groove rgb(149 45 31);
+}
+
+#footer {
+  text-shadow: 1px 1px 1px black;
 }
 
 a {
@@ -96,41 +129,6 @@ a {
 a:hover{
   text-decoration:none;
   font-weight: bold;
-  color:rgb(254 254 252;;
-}
-
-#exhibit{
-  display: grid;
-  grid-gap: auto;
-  grid-template-columns: repeat(1, auto); 
-  grid-area: content;
-}
-
-#grid_cell a:link{
-  font-family:fantasy;
-  font-weight: normal;
-  font-size: 20px;
-  text-align: left;
-  color:rgb(70 61 46);
-}
-
-#grid_cell a:visited{
-  font-size: 15px;
-  text-align: left;
-  margin: 5%;
-  color:rgb(70 61 46);
-}
-
-#grid_cell a:hover {
-  font-weight: bold;
-  color: rgb(149 45 31);
-}
-
-#grid_cell a:active {
-  font-weight: bold;
-  color: rgb(254 254 252);
-}
-
-#footer {
-  color:rgb(254 254 252)
+  color:rgb(254 254 252);
+  border:1px solid white;
 }

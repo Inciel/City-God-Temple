@@ -26,18 +26,20 @@
 
   <hr>
 
-  <div id="Subject">
-        <img src="{{ page.index_image_url }}" width=500px height=auto>
+  <div class="Subject">
         <h3> {{ page.name }} </h3>
+        <br>
+        <img src="../images/{{ page.title }}/1.jpg" width=600px height=auto opacity=100%;>
+        <br>
         <p> Build Time: {{ page.time }} </p> <p> Site: {{ page.site }} </p>
         <h4> Description </h3>
         <p align=left> {{ page.introduction }} </p>
         <h4> Story </h3>
         <p align=left> {{ page.story }} </p>
-        <img src="{{ page.other-image-url-1 }}" width=400px height=200px>
-        <img src="{{ page.other-image-url-2 }}" width=400px height=200px>
-        <img src="{{ page.other-image-url-3 }}" width=400px height=200px>
-        <img src="{{ page.other-image-url-4 }}" width=400px height=200px>
+        <img src="../images/{{ page.title }}/2.jpg" width=400px height=auto>
+        <img src="../images/{{ page.title }}/3.jpg" width=400px height=auto>
+        <img src="../images/{{ page.title }}/4.jpg" width=400px height=auto>
+
   </div>
 
   <hr>
@@ -45,7 +47,7 @@
   <div>
 
     <div id="footer">
-      <p>Created with <a href = "https://jekyllrb.com/">jekyll</a> by <a href = "{{site.baseurl}}/about">Us</a> in 2021</p>
+      Created with <a href = "https://jekyllrb.com/">jekyll</a> by <a href = "{{site.baseurl}}/about">Us</a> in 2021
     </div>
 
 </div>
