@@ -9,6 +9,4 @@ index_image_url: images/Sanyuan/1.jpg
 other-image-url-1: images/Sanyuan/2.jpg
 other-image-url-2: images/Sanyuan/3.jpg
 other-image-url-3: images/Sanyuan/4.jpg
-license:
-license-url:
 ---
