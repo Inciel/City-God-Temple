@@ -9,6 +9,4 @@ index_image_url: images/Xianyang/1.jpg
 other-image-url-1: images/Xianyang/2.jpg
 other-image-url-2: images/Xianyang/3.jpg
 other-image-url-3: images/Xianyang/4.jpg
-license:
-license-url:
 ---
