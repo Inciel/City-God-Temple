@@ -6,7 +6,7 @@ layout: Gallery
 <h2>Gallery</h2>
 </div>
 
-<div id= "exhibit">
+<div class= "exhibit">
 
    {% assign collections = site.exhibits | sort: "site" %}
    {% for exhibit in collections  %} 
