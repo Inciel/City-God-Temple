@@ -12,7 +12,7 @@ layout: Gallery
    {% for exhibit in collections  %} 
 
   <div id = "grid_cell">
-    <a href = "{{ exhibit.url | relative_url }}"> <img src="{{ exhibit.index_image_url }}" width=200px height=auto opacity=100> </a>
+    <a href = "{{ exhibit.url | relative_url }}"> <img src="{{ exhibit.index_image_url }}" opacity=100> </a>
 
     <a href = "{{ exhibit.url | relative_url }}"> <p> {{ exhibit.name }} </p></a>
 
