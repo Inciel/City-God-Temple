@@ -10,6 +10,5 @@ other-image-url-1: images/Huangpu/2.jpg
 other-image-url-2: images/Huangpu/3.jpg
 other-image-url-3: images/Huangpu/4.jpg
 other-image-url-4: images/Huangpu/5.jpg
-license:
-license-url:
+
 ---
