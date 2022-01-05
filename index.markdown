@@ -19,7 +19,7 @@ By listing the architectural features of City God temples across China and intro
 {% assign collections = site.exhibits | sort: "site" %}
    {% for exhibit in collections  %}
       <div id = "grid_cell">
-          <a href = "{{ exhibit.url | relative_url }}"> <img src="{{ exhibit.index_image_url }}" width=120px height=80px></a>
+          <a href = "{{ exhibit.url | relative_url }}"> <img src="{{ exhibit.index_image_url }}" ></a>
       </div>
    {% endfor %}
 
