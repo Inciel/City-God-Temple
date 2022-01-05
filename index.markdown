@@ -5,7 +5,7 @@ layout: index
 
 <h2>Introduction</h2>
 <p id="intro">
-The culture of the City God in Taoist culture is part of the excellent traditional Chinese culture.
+The culture of the City God in Taoist culture is part of traditional Chinese culture.
 <br>
 <br>
 The ancient people built the city to protect their safety, so they built tall walls, towers, gates, trenches and moats. They believed that there were gods for things that were closely related to people's lives and well beings, so "City God" was worshipped by Chinese folk (Han Dynasty) and Taoists as the god of the city and the people respected him as " City God Master". Only those who have served the country with merit and virtue in history, and those who have been martyred for the benefit of the people, are eligible to be given this honour and have a shrine and temple built to commemorate them. City God is a magistrate in the underworld, and is associated with the city and has developed along with it. Both City God and ‘the cult of City God’ as a folk belief arose in tandem with the city. Taoism has incorporated the City God into its own deity system, describing him as a god who cuts off evil, protects the country and protects the state, and governs the souls of the dead in the underworld.
@@ -16,7 +16,8 @@ By listing the architectural features of City God temples across China and intro
 
 <div id= "exhibit">
 
-   {% for exhibit in site.exhibits %}
+{% assign collections = site.exhibits | sort: "site" %}
+   {% for exhibit in collections  %}
       <div id = "grid_cell">
           <a href = "{{ exhibit.url | relative_url }}"> <img src="{{ exhibit.index_image_url }}" width=120px height=80px></a>
       </div>

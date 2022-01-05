@@ -1,5 +1,5 @@
 body {
-    background-image:url('images/background3.jpeg');
+    background-image:url('images/background2.jpg');
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -64,26 +64,19 @@ img {
   border: 1px solid;
 }
 
-a {
-  text-decoration:none;
-  color:rgb(254 254 252);
-}
-
-a:hover{
-  text-decoration:none;
-  font-weight: bold;
-  color:rgb(149 45 31); 
-}
-
 p {
   font-family: monospace;
   color: rgb(81, 69, 94);
-  font-size:20px;
+  font-size: 18px;
 }
 
-p a:hover {
+#license {
+  background-color:rgb(149, 45, 31);
+  font-family: 'Courier New', Courier, monospace;
+  border: 2px solid rgb(149, 45, 31); 
+  color: black; 
+  font-size: 18px;
   font-weight: bold;
-  color: rgb(149,45,31); 
 }
 
 nav ul{
@@ -144,17 +137,9 @@ nav li a:active {
     text-align:left;
   }
   
-#grid_cell a:link{
-  font-size: 15px;
-  margin: 5%;
+#grid_cell {
   color:rgb(70 61 46);
   opacity:100%;
-}
-
-#grid_cell a:visited{
-  font-size: 15px;
-  margin: 5%;
-  color:rgb(70 61 46);
 }
 
 #grid_cell a:hover {
@@ -167,9 +152,32 @@ nav li a:active {
   color: rgb(254 254 252);
 }
 
+#grid_cell a:visited{
+  font-size: 15px;
+  margin: 5%;
+  color:rgb(70 61 46);
+}
+
+a {  
+  text-decoration:none;
+  color:rgb(254,254,252);
+}
+
+a:hover {
+  text-decoration:none;
+  font-weight: bold;
+  color:black;
+} 
+
 #footer {
   font-family: monospace;
   color:rgb(254,254,252);
   text-align:center;
   text-shadow: 1px 1px 1px black;
 }
+
+#footer a:hover {
+  text-decoration:none;
+  font-weight: bold;
+  color:rgb(149 45 31); 
+} 

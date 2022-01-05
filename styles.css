@@ -1,5 +1,5 @@
 body {
-  background-image:url(images/background3.jpeg);
+  background-image:url(images/background1.jpg);
   background-repeat:repeat;
   background-position: center top;
   background-size: width 1002px;
@@ -100,7 +100,7 @@ nav li a:active {
   grid-gap: 10px; 
   justify-content: center;
   padding:10%;
-  background-image: url('images/background2.jpeg');
+  background-image: url('images/background2.jpg');
   background-position: center;
   background-size: contain;
 }

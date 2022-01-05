@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-name: City God Temple in Lanzhou, Gansu Province
+name: City God Temple of Lanzhou, Gansu Province
 introduction: Built-in the Song Dynasty, it was dedicated to Ji Xin, a general of the Han Dynasty, and was also known as the Ji Xin Temple. It was restored in the Ming Dynasty and changed to its present name. It was destroyed by fire during the Qianlong period of the Qing Dynasty (1736-1795) and was later restored.
 time: Song Dynasty (960—1279)
 site: Zhangye Road, Lanzhou

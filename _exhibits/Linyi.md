@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-name: City God Temple, Linyi City, Shandong Province
+name: City God Temple of Linyi Shandong Province
 introduction: Linyi City God Temple has endured for nearly a thousand years with two temple sites and three temple constructions. Linyi City God Temple was established in the Song Dynasty. The temple is a two-storey building with a five-room hall in the backyard, mainly dedicated to the City God. There are also stone monuments, stone lions, stone horses and stone carvings inside and outside the courtyard. There is a square outside the gate. A great worship service is held on the 15th day of the first month, and temple fair activities are held for five days. In September 1945, the city of Linyi was liberated. The East China Bureau of the Central Committee of the Communist Party of China, the military headquarters of the New Fourth Army and the leading organs of the party, government and army of Shandong were moved to Linyi City. The City God Temple was converted to other uses. 
 time: Northern Song Dynasty (960—1127)
 site: Located at the northern gate of the ancient city of Yizhou

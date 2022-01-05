@@ -5,8 +5,8 @@
     {
 
       "title"   : "{{ exhibit.name }}",
-      "site"    : "{{ exhibit.site  | join: ', ' }}",
-      "area"    : "{{ exhibit.area }}"
+      "url"     : "{{ site.baseurl }}{{ exhibit.url }}",
+      "site"    : "{{ exhibit.site  | join: ', ' }}"
   
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}

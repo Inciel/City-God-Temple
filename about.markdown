@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 <br>
+
+Copyright:
+Background images come from:
+<a href="https://en.dpm.org.cn">The Palace Museum</a>
+<a href="https://pxhere.com/">Pxhere.com</a>h
+
+<br>
 This is a humanities website for City God Temple. 
 
 We are students in <a href="http://KCL.ac.uk">King's College London</a>.
@@ -19,8 +26,3 @@ Creators:
 Sincerely appreciate Prof. Daniel Allington and Dr Nilo Pedrazzini for conduction.
 <br>
 
-Copyright
-Background image come from:
-http://www.dpm.org.cn
-https://pxhere.com/zh/photo/1168743?utm_content=shareClip&utm_medium=referral&utm_source=pxhere
-<br>

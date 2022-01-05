@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-name: City God Temple in Jinan, Shandong Province
+name: City God Temple of Jinan, Shandong Province
 introduction: Six hundred years of history of the city god temple has become a "rental house", the temple lived in some small vendors and other tenants. It is understood that the Jinan Governor City God Temple, which has a history of 646 years, is the largest existing city god temple in Shandong. This city god temple as early as 1979 was listed as the first batch of cultural relics protection units in Jinan, but because of various reasons, the building has not been timely protected and repaired, the only remaining mountain gate, two doors, the stage and severe other painful further destruction, the roof has grown 1 meter high small trees.
 time: 1369
 site: Donghua Street, west side of the middle section of Zhizhang Street, Lixia District, Jinan
