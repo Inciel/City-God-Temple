@@ -128,18 +128,24 @@ nav li a:active {
     border: 1px solid black;
 }
 
-#exhibit{
+.exhibit{
     display: grid;
-    grid-gap: auto;
     font-size: 15px;
-    grid-template-columns: repeat(4, 250px); 
-    grid-area: content;
+    grid-template-columns: repeat(4, 25%); 
     text-align:left;
+    justify-content: center;
   }
   
 #grid_cell {
   color:rgb(70 61 46);
   opacity:100%;
+  padding:10%;
+  margin:0;
+}
+
+#grid_cell img{
+  width:100%;
+  height:auto;
 }
 
 #grid_cell a:hover {
