@@ -9,6 +9,4 @@ index_image_url: images/Hancheng/1.jpg
 other-image-url-1: images/Hancheng/2.jpg
 other-image-url-2: images/Hancheng/3.jpg
 other-image-url-3: images/Hancheng/4.jpg
-license:
-license-url:
 ---
