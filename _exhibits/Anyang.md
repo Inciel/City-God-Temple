@@ -9,5 +9,4 @@ index_image_url: images/Anyang/1.jpg
 other-image-url-1: images/Anyang/2.jpg
 other-image-url-2: images/Anyang/3.jpg
 other-image-url-3: images/Anyang/4.jpg
-
 ---
