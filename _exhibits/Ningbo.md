@@ -9,6 +9,4 @@ index_image_url: images/Ningbo/1.jpg
 other-image-url-1: images/Ningbo/2.jpg
 other-image-url-2: images/Ningbo/3.jpg
 other-image-url-3: images/Ningbo/4.jpg
-license:
-license-url:
 ---
