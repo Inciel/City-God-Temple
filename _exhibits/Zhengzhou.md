@@ -10,6 +10,4 @@ other-image-url-1: images/Zhengzhou/2.jpg
 other-image-url-2: images/Zhengzhou/3.jpg
 other-image-url-3: images/Zhengzhou/4.jpg
 other-image-url-4: images/Zhengzhou/5.jpg
-license:
-license-url:
 ---
