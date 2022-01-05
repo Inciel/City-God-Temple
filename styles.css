@@ -94,6 +94,7 @@ nav li a:active {
 }
 
 #exhibit {
+  width:100%;
   display: grid;
   grid-template-columns: repeat(6,120px);
   grid-template-rows: auto;
