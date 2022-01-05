@@ -9,5 +9,4 @@ index_image_url: images/Shengzhou/1.jpg
 other-image-url-1: images/Shengzhou/2.jpg
 other-image-url-2: images/Shengzhou/3.jpg
 other-image-url-3: images/Shengzhou/4.jpg
-
 ---
