@@ -9,6 +9,5 @@ index_image_url: images/Xian/1.jpg
 other-image-url-1: images/Xian/2.jpg
 other-image-url-2: images/Xian/3.jpg
 other-image-url-3: images/Xian/4.jpg
-license:
-license-url:
+
 ---
