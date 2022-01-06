@@ -8,7 +8,4 @@ story: On the 15th day of the first month of each year, a big festival is held i
 index_image_url: images/Linyi/1.jpg
 other-image-url-1: images/Linyi/2.jpg
 other-image-url-2: images/Linyi/3.jpg
-
-license:
-license-url:
 ---
