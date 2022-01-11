@@ -21,6 +21,6 @@ Sincerely appreciate Prof. Daniel Allington and Dr Nilo Pedrazzini for their gui
 
 <div>
 
-<p id=license>Background images by <a href = "https://en.dpm.org.cn">The Palace Museum</a> and <a href = "https://pxhere.com/en/">pxhere.com</a> </p>
+<p id=license>Background images by <a href = "https://www.dpm.org.cn">The Palace Museum</a> and <a href = "https://pxhere.com/en/">pxhere.com</a> </p>
 
 </div>
