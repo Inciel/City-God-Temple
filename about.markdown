@@ -34,6 +34,7 @@ Creators:
 <br>
 Please contact us if you would like more details. 
 <br>
+    </p>
 Sincerely appreciate Prof. Daniel Allington and Dr Nilo Pedrazzini for their guidance.
- </p>
+
 </div>
