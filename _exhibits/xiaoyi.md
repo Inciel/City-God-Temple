@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-name: Xiaoyi City God Temple in Shanxi Province
+name: City God Temple of Xiaoyi, Shanxi Province
 introduction: The Xiaoyi City God Temple, located in the northwest corner of the ancient city of Xiaoyi in Shanxi Province, was first built in the Song Dynasty, rebuilt in the fourth year of the Jin Cheng'an era (1199) and destroyed in an earthquake in the seventh year of the Yuan Dade era (1303), according to the surviving inscriptions. It was rebuilt two years later and began to take shape. The main hall is seven rooms wide and five rooms deep, with a platform six feet high and two feet wide, and five rooms in each of the east and west side halls. The inner hall (bedchamber) is five rooms wide, three rooms deep, five rooms in each of the supporting halls in the east and west
 time: Song Dynasty (960—1279)
 site: Xiaoyi City, Shanxi Province
